@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95998522-138b-42ec-8b09-5ed716a01139" name="Changes" comment="update portfolio">
+      <change afterPath="$PROJECT_DIR$/assets/styles/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/portfolio-home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/my-portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +39,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/my-portfolio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.my-portfolio.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/my-portfolio/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my-portfolio\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\my-portfolio\assets\images" />
     </key>
@@ -58,8 +65,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +92,23 @@
       <workItem from="1724336256343" duration="3904000" />
       <workItem from="1724467332830" duration="678000" />
       <workItem from="1724727570979" duration="7000" />
+      <workItem from="1724837535890" duration="1331000" />
+      <workItem from="1724842358586" duration="595000" />
+      <workItem from="1725072530544" duration="365000" />
+      <workItem from="1725073221254" duration="2039000" />
+      <workItem from="1725423842219" duration="23000" />
+      <workItem from="1725424167145" duration="662000" />
+      <workItem from="1725424855339" duration="33000" />
+      <workItem from="1725429470467" duration="1599000" />
+      <workItem from="1725434732333" duration="11000" />
+      <workItem from="1725502052416" duration="540000" />
+      <workItem from="1725503030847" duration="1109000" />
+      <workItem from="1725612324819" duration="1748000" />
+      <workItem from="1725620336752" duration="186000" />
+      <workItem from="1725625142502" duration="6000" />
+      <workItem from="1725626559077" duration="2761000" />
+      <workItem from="1725633508304" duration="640000" />
+      <workItem from="1725678883003" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="update portfolio">
       <option name="closed" value="true" />
@@ -94,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724336701005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update portfolio">
+      <option name="closed" value="true" />
+      <created>1724837557126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724837557126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update portfolio">
+      <option name="closed" value="true" />
+      <created>1724837585560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724837585560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
